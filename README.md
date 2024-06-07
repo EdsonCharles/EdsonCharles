@@ -1,12 +1,11 @@
  ## Hi there 👋
 
--  👨‍💻Oi sou o Charles
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+-  👨‍💻 Hello, my name is Charles!
+- 🌱 I am currently taking a course at Alura, where I am dedicated to learning programming.
+- ✌️ I am constantly developing and always looking to improve my skills.
+- 🎯 My goal is to specialize in Back End development, an area I consider essential for creating robust and efficient systems.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EdsonCharles&show_icons=true&theme=dark)
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=EdsonCharles&show_icons=true&theme=dark"/> </p>
 
 
 ## 💻 Languages e Tools 
